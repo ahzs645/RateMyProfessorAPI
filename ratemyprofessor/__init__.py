@@ -93,8 +93,8 @@ def get_schools_by_name(school_name: str):
     :param school_name: The school's name.
     :return: List of schools that match the school name. If no schools are found, this will return an empty list.
     """
-    no_space_school = school_name.replace(' ', '+')
-    url = "https://www.ratemyprofessors.com/search/schools?q=%s" % no_space_school
+    school_name.replace(' ', '+')
+    url = "https://www.ratemyprofessors.com/search/schools?q=%s" % school_name
     page = requests.get(url)
     data = re.findall(r'"legacyId":(\d+)', page.text)
     school_list = []
