@@ -24,10 +24,6 @@ from .school import School
 with open(os.path.join(os.path.dirname(__file__), "json/header.json"), 'r') as f:
     headers = json.load(f)
 
-with open(os.path.join(os.path.dirname(__file__), "json/schoolquery.json"), 'r') as f:
-    school_query = json.load(f)
-
-
 def get_school_by_name(school_name: str):
     """
     NEW VERSION by sejager
