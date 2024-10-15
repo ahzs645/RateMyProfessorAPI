@@ -1,3 +1,5 @@
+Read the info below to download the original, unmodified version of this API!
+I simply made some changes to the ratemyprofessor/init.py and examples/example.py files (and the example below).
 
 [![Downloads](https://pepy.tech/badge/ratemyprofessorapi)](https://pepy.tech/project/ratemyprofessorapi)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/ratemyprofessorapi.svg)](https://pypi.org/project/ratemyprofessorapi)
@@ -58,19 +60,24 @@ I am currently working on documentation but as of now there is no documentation 
 
 ## Example
 ```python
-import ratemyprofessor
+import ratemyprofessor as rmp
 
-professor = ratemyprofessor.get_professor_by_school_and_name(
-    ratemyprofessor.get_school_by_name("Case Western Reserve University"), "Connamacher")
-if professor is not None:
-    print("%sworks in the %s Department of %s." % (professor.name, professor.department, professor.school.name))
-    print("Rating: %s / 5.0" % professor.rating)
-    print("Difficulty: %s / 5.0" % professor.difficulty)
-    print("Total Ratings: %s" % professor.num_ratings)
-    if professor.would_take_again is not None:
-        print(("Would Take Again: %s" % round(professor.would_take_again, 1)) + '%')
+school = rmp.get_school_by_name("Lowellfdss")
+if school == None:
+    print("Nothing found, maybe check your spelling?")
+else:
+    professor = rmp.get_professor_by_school_and_name(school, "Cindy Chen")
+    if professor is not None:
+        print("%s works in the %s Department of %s." % (professor.name, professor.department, professor.school.name))
+        print("Rating: %s / 5.0" % professor.rating)
+        print("Difficulty: %s / 5.0" % professor.difficulty)
+        print("Total Ratings: %s" % professor.num_ratings)
+        if professor.would_take_again is not None:
+            print(("Would Take Again: %s" % round(professor.would_take_again, 1)) + '%')
+        else:
+            print("Would Take Again: N/A")
     else:
-        print("Would Take Again: N/A")
+        print("Nothing found, maybe check your spelling?")
 
 ```
 
@@ -82,7 +89,6 @@ Difficulty: 3.8 / 5.0
 Total Ratings: 102
 Would Take Again: 86.2%
 ```
-See `examples` for more examples.
 
 ## Acknowledgements and License
 This can be seen as a continuation of the [RateMyProfessorPyAPI](https://pypi.org/project/RateMyProfessorPyAPI/) project that can also be found on GitHub [here](https://github.com/remiliacn/RateMyProfessorPy).
