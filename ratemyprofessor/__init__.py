@@ -10,6 +10,7 @@ Original
 
 Updated in 2024 by sejager
 """
+
 import requests
 import re
 import json
@@ -116,14 +117,33 @@ def get_professor_by_school_and_name(college: School, professor_name: str):
     :return: The professor that matches the school and name. If no professors are found, this will return None.
     """
     
-    professors = get_professors_by_school_and_name(college, professor_name)
+    # Exit if no college is found as otherwise this def will return an error
+    if college is None:
+        return None
+
+    prof_names = []
+    closest_match = ''
     max_professor = None
+    
+    professors = get_professors_by_school_and_name(college, professor_name)
 
     for prof in professors:
-        if max_professor is None or max_professor.num_ratings < prof.num_ratings:
-            max_professor = prof
-
-    return max_professor
+        prof_names.append(prof.name)
+    
+    # Check name that is closest if there's a first and last name? Could use this as default
+    # instead of checking for space in case people are doing firstNamelastName without space
+    if (' ' in professor_name):
+        closest_match = difflib.get_close_matches(professor_name, prof_names, 1, 0.4)
+    try:
+        closest_match_index = prof_names.index(closest_match[0])
+    # If the string isn't close enough to anything try old method
+    except IndexError:
+        for prof in professors:
+            if max_professor is None or max_professor.num_ratings < prof.num_ratings:
+                max_professor = prof
+        return max_professor
+    
+    return professors[closest_match_index]
 
 
 def get_professors_by_school_and_name(college: School, professor_name: str):
@@ -140,6 +160,9 @@ def get_professors_by_school_and_name(college: School, professor_name: str):
              this will return an empty list.
     """
     # professor_name.replace(' ', '+')
+
+    if college is None:
+        return None
     
     url = 'https://www.ratemyprofessors.com/search/professors/%s?q=%s' % (college.id, professor_name)
     page = requests.get(url)
@@ -153,3 +176,4 @@ def get_professors_by_school_and_name(college: School, professor_name: str):
             pass
 
     return professor_list
+
