@@ -78,11 +78,11 @@ else:
 
 **Output:**
 ```
-Harold Connamacher works in the Computer Science Department of Case Western Reserve University.
-Rating: 4.7 / 5.0
-Difficulty: 3.8 / 5.0
-Total Ratings: 102
-Would Take Again: 86.2%
+James Daly works in the Computer Science Department of University of Massachusetts Lowell.
+Rating: 3.4 / 5.0
+Difficulty: 3.7 / 5.0
+Total Ratings: 34
+Would Take Again: 61.8%
 ```
 
 ## Acknowledgements and License
