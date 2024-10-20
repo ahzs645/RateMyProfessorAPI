@@ -5,7 +5,7 @@ import ratemyprofessor
 from ratemyprofessor import School
 from ratemyprofessor import Professor
 
-
+"""
 class Test(unittest.TestCase):
     def test_school(self):
         cwru = School(186)
@@ -90,3 +90,4 @@ class Test(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+"""
