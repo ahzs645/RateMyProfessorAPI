@@ -6,6 +6,7 @@ from ratemyprofessor import School
 from ratemyprofessor import Professor
 
 """
+These should be written to actually work at some point..
 class Test(unittest.TestCase):
     def test_school(self):
         cwru = School(186)
