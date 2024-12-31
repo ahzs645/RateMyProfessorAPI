@@ -5,7 +5,7 @@ import ratemyprofessor
 from ratemyprofessor import School
 from ratemyprofessor import Professor
 
-"""
+
 These should be written to actually work at some point..
 class Test(unittest.TestCase):
     def test_school(self):
@@ -13,7 +13,7 @@ class Test(unittest.TestCase):
 
         # Test if school can be found
         self.assertEqual(cwru, ratemyprofessor.get_school_by_name("Case Western Reserve University"))
-
+"""
         # Test School constructor
         self.assertEqual(cwru.name, "Case Western Reserve University")
         self.assertEqual(cwru.id, 186)
