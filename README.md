@@ -1,5 +1,5 @@
 Read the info below to download the original, unmodified version of this API!
-I simply made some changes to the ratemyprofessor/init.py and examples/example.py files (and the example below).
+I simply made some changes to the init.py, school.py, and examples/example.py files (and the example below).
 
 [![Downloads](https://pepy.tech/badge/ratemyprofessorapi)](https://pepy.tech/project/ratemyprofessorapi)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/ratemyprofessorapi.svg)](https://pypi.org/project/ratemyprofessorapi)
