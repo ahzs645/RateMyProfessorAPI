@@ -16,7 +16,7 @@ class School:
         self.name = self._get_name()
 
     def _get_name(self):
-        url = "https://www.ratemyprofessors.com/campusRatings.jsp?sid=%s" % self.id
+        url = "https://www.ratemyprofessors.com/school/%s" % self.id
         page = requests.get(url)
         school_names = re.findall(r'"legacyId":%s,"name":"(.*?)"' % self.id, page.text)
         if school_names:
