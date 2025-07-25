@@ -1,0 +1,2483 @@
+{
+  "description": "Sample detailed professor data from UNBC",
+  "school_id": 1448,
+  "fetch_date": "2025-07-24T22:14:43.959491",
+  "sample_size": 5,
+  "professors": [
+    {
+      "name": "Lisa Dickson",
+      "id": 27707,
+      "department": "English",
+      "school": {
+        "city": "Prince George",
+        "name": "University of Northern British Columbia",
+        "state": "BC"
+      },
+      "overall_rating": 3.8,
+      "difficulty": 3.4,
+      "total_ratings": 89,
+      "would_take_again_percent": 50,
+      "courses": [
+        {
+          "name": "384",
+          "review_count": 1
+        },
+        {
+          "name": "ENG",
+          "review_count": 5
+        },
+        {
+          "name": "ENG100",
+          "review_count": 3
+        },
+        {
+          "name": "ENG100102",
+          "review_count": 1
+        },
+        {
+          "name": "ENG101",
+          "review_count": 1
+        },
+        {
+          "name": "ENG102ENG280",
+          "review_count": 1
+        },
+        {
+          "name": "ENG200",
+          "review_count": 1
+        },
+        {
+          "name": "ENG210",
+          "review_count": 2
+        },
+        {
+          "name": "ENG211",
+          "review_count": 6
+        },
+        {
+          "name": "ENG260",
+          "review_count": 1
+        },
+        {
+          "name": "ENG280",
+          "review_count": 5
+        },
+        {
+          "name": "ENG280ETC",
+          "review_count": 1
+        },
+        {
+          "name": "ENG300",
+          "review_count": 4
+        },
+        {
+          "name": "ENG300282",
+          "review_count": 1
+        },
+        {
+          "name": "ENG381",
+          "review_count": 3
+        },
+        {
+          "name": "ENG384",
+          "review_count": 2
+        },
+        {
+          "name": "ENGL",
+          "review_count": 3
+        },
+        {
+          "name": "ENGL100",
+          "review_count": 5
+        },
+        {
+          "name": "ENGL211",
+          "review_count": 6
+        },
+        {
+          "name": "ENGL260",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL280",
+          "review_count": 3
+        },
+        {
+          "name": "ENGL281",
+          "review_count": 5
+        },
+        {
+          "name": "ENGL282390",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL300",
+          "review_count": 5
+        },
+        {
+          "name": "ENGL381",
+          "review_count": 4
+        },
+        {
+          "name": "ENGL390",
+          "review_count": 2
+        },
+        {
+          "name": "ENGL491",
+          "review_count": 4
+        },
+        {
+          "name": "ENGLISH390",
+          "review_count": 1
+        },
+        {
+          "name": "ENGLISH491",
+          "review_count": 1
+        },
+        {
+          "name": "ENGLMANY",
+          "review_count": 1
+        },
+        {
+          "name": "ENGVARIED",
+          "review_count": 2
+        },
+        {
+          "name": "ENGVARIOU",
+          "review_count": 1
+        },
+        {
+          "name": "MANY",
+          "review_count": 1
+        },
+        {
+          "name": "MANYMANY",
+          "review_count": 1
+        },
+        {
+          "name": "SHAKES",
+          "review_count": 1
+        },
+        {
+          "name": "SHAKESPEARE",
+          "review_count": 1
+        },
+        {
+          "name": "VARIOUS",
+          "review_count": 2
+        }
+      ],
+      "rating_distribution": {
+        "5_stars": 49,
+        "4_stars": 12,
+        "3_stars": 10,
+        "2_stars": 11,
+        "1_star": 7
+      },
+      "tags": [
+        {
+          "name": "Tough grader",
+          "count": 4
+        },
+        {
+          "name": "Get ready to read",
+          "count": 3
+        },
+        {
+          "name": "Participation matters",
+          "count": 3
+        },
+        {
+          "name": "Amazing lectures ",
+          "count": 2
+        },
+        {
+          "name": "Clear grading criteria",
+          "count": 2
+        },
+        {
+          "name": "Would take again",
+          "count": 1
+        },
+        {
+          "name": "Gives good feedback",
+          "count": 1
+        },
+        {
+          "name": "Inspirational",
+          "count": 3
+        },
+        {
+          "name": "Lots of homework",
+          "count": 3
+        },
+        {
+          "name": "So many papers",
+          "count": 2
+        },
+        {
+          "name": "Lecture heavy",
+          "count": 1
+        },
+        {
+          "name": "Accessible outside class",
+          "count": 2
+        }
+      ],
+      "recent_reviews": [
+        {
+          "date": "2025-04-17 03:23:02 +0000 UTC",
+          "course": "ENG384",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "I love Dr Dickson so much she's actually my angel",
+          "grade_received": "A",
+          "tags": "Get ready to read--Participation matters--Clear grading criteria",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-01-09 05:30:10 +0000 UTC",
+          "course": "ENG280",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "Great professor with some really engaging lessons. Lots of her assignments and tasks really set you up for success in your future courses while the schedule works well with readings on one day and group work on another. ",
+          "grade_received": "B+",
+          "tags": "Amazing lectures --Clear grading criteria--Accessible outside class",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2024-04-14 04:50:55 +0000 UTC",
+          "course": "ENGL281",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "Lisa is a difficult marker with high expectations. Her instructions are SO long that they make no sense. I enjoy her lectures & her passion is evident. My biggest complaint is that she did a poll about going in-person during COVID. Majority voted to stay online and despite the results, she moved to in-person. That felt unsafe & disrespectful. ",
+          "grade_received": "A-",
+          "tags": "Get ready to read--Lots of homework--Lecture heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-12-08 08:49:42 +0000 UTC",
+          "course": "ENG211",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "A bit of a tough grader but she really seems to love to teach and I've learned lots from her class :) she's very eccentric in the best way possible, think fun aunt ",
+          "grade_received": "Not sure yet",
+          "tags": "Tough grader--Amazing lectures --Inspirational",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2020-09-01 19:59:36 +0000 UTC",
+          "course": "ENGL390",
+          "quality_rating": 2,
+          "difficulty_rating": 5,
+          "comment": "I have enjoyed other courses with her, but the quality of her teaching has plummeted in the last couple of years. Her new experimental methods rarely work well in classes, which are often disorganized, unproductive, and uninformative. Workload and expectations were unreasonable and unrealistic (7 assignments plus homework, with harsh grading).",
+          "grade_received": "",
+          "tags": "Lots of homework--So many papers--Tough grader",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2020-08-08 00:42:54 +0000 UTC",
+          "course": "ENGL381",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "Worst English class I have taken. She is disorganized and puts most of the work on students, rarely lecturing and relying on group discussion, which doesn't work since most people don't even read the plays. Workload is very heavy, about twice that of other upper-year classes, and her standards are unreasonable. More work for lower grades. Avoid.",
+          "grade_received": "",
+          "tags": "Get ready to read--So many papers--Tough grader",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2018-11-07 20:14:38 +0000 UTC",
+          "course": "ENGL281",
+          "quality_rating": 5,
+          "difficulty_rating": 5,
+          "comment": "Really passionate and engaging professor, but a really tough marker. The entire course is completely participation based, and often I have no idea what is expected for the actual assigments. Can be hard for anyone who struggles with little to no direction. But she is a really great professor over all, just difficult to get good grades in her class",
+          "grade_received": "C",
+          "tags": "Tough Grader--Gives good feedback--LOTS OF HOMEWORK",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2018-04-20 19:14:47 +0000 UTC",
+          "course": "ENGL280",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "I learned more in this course than in any other course I've taken. She lectures infrequently and uses a lot of collaborative group exercises and discussions, but these exercises help to build the skills necessary for assignments and exams. She is very accessible and gives plenty of advice and help when asked.",
+          "grade_received": "A",
+          "tags": "Participation matters--Inspirational--ACCESSIBLE OUTSIDE CLASS",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2016-04-16 01:58:25 +0000 UTC",
+          "course": "ENGL491",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "This class has got to be my favourite upper-level! I can't think of another class where I have grown so much, as a student, as I did in this one. She challenges you, but she brings her all to class, and makes all your work worth it. She is a phenomenal prof. Definitely recommend- take this class!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-07-27 15:35:47 +0000 UTC",
+          "course": "ENGL381",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "The best prof I've ever had. Fun, engaging and great at explaining difficult concepts - if you're actually listening! Is excellent at explaining essay structure. Hard marker, expects a lot from her students. Group work is great for circulating ideas and getting in-depth discussions going. Also: concept maps saved my life.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-03-04 13:09:53 +0000 UTC",
+          "course": "ENGL100",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "Hard Marker. Treats students like young children. When asked questions about clarifying assignment expectations she just says \"refer to the assignment handout.\" Her class sucks.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 2
+        },
+        {
+          "date": "2013-07-18 07:12:06 +0000 UTC",
+          "course": "ENGL100",
+          "quality_rating": 5,
+          "difficulty_rating": 1,
+          "comment": "Phenomenal prof. Genuinely cares about students and not only does she know a ridiculous amount about her subject, she also knows how to teach it. Very real, warm, down to earth, approachable and has a great sense of humour. UNBC is lucky to have her.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-01-28 14:14:50 +0000 UTC",
+          "course": "ENGL281",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "Amazing teacher!! She is hilarious, really knows what she's talking about, and engaging. Gets the class discussing ideas and I've learned and gained so much being in her course. I'm already judging all my English profs against her!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2012-12-11 19:37:16 +0000 UTC",
+          "course": "ENGL300",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "her teaching style is amazing and it learned so much through this course. she is helpful and makes class fun. I would take so many more of her courses",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2012-04-02 14:30:29 +0000 UTC",
+          "course": "ENGL300",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "Theory ain't easy, but Dr. Dickson made it clear and fun, for the most part.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2011-12-07 06:57:52 +0000 UTC",
+          "course": "ENGL100",
+          "quality_rating": 5,
+          "difficulty_rating": 5,
+          "comment": "Not being an English guy, I found this course hard. But she went to the extremes to give us the best university teaching I have seen. Tons of support and direction if you took the time to really listen to what she was saying. A five star prof. Plus she's quirky and fun. She turned me on to university and English.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2011-12-02 13:51:37 +0000 UTC",
+          "course": "ENGL100",
+          "quality_rating": 4,
+          "difficulty_rating": 2,
+          "comment": "The class is only interesting if you like english. We did a few fun assignments that weren't just writing essays so that was good. She is also pretty funny. She has a lot of random stories that just make you laugh. I think she really cares that you do good if you put in the time.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2011-09-27 13:04:29 +0000 UTC",
+          "course": "ENGL491",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "I had Lisa my entire English Degree, and she was the only teacher who actually cared that I succeeded. She told me flat out that she knows I have the potential for being amazing. She inspired me to teach like she would, and have the same passion for my subject. Lisa is amazing, and she always was/is there to help!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2011-09-11 16:58:43 +0000 UTC",
+          "course": "ENGL300",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "Best English prof at UNBC! Her passion for the subject material comes across loudly and her lectures are witty, engaging and fun. Eccentric, eclectic and downright awesome. Although she does crush on David Bowie, eew",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2010-11-04 03:40:51 +0000 UTC",
+          "course": "ENGL491",
+          "quality_rating": 4,
+          "difficulty_rating": 4,
+          "comment": "I didn't really like her when I took ENGL 211 with her because I didn't find her lectures very helpful but when I took ENGL 280 with her she was amazing. Shakespeare is what she is best at. The Hamlet course I took with her was one of my favorite courses in my entire undergrad. She loves to teach.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        }
+      ]
+    },
+    {
+      "name": "Todd Whitcombe",
+      "id": 30141,
+      "department": "Chemistry",
+      "school": {
+        "city": "Prince George",
+        "name": "University of Northern British Columbia",
+        "state": "BC"
+      },
+      "overall_rating": 3.5,
+      "difficulty": 2.8,
+      "total_ratings": 85,
+      "would_take_again_percent": 60,
+      "courses": [
+        {
+          "name": "CHEM",
+          "review_count": 2
+        },
+        {
+          "name": "CHEM100",
+          "review_count": 32
+        },
+        {
+          "name": "CHEM100101",
+          "review_count": 1
+        },
+        {
+          "name": "CHEM101",
+          "review_count": 27
+        },
+        {
+          "name": "CHEM110",
+          "review_count": 13
+        },
+        {
+          "name": "CHEM120",
+          "review_count": 2
+        },
+        {
+          "name": "CHEM202",
+          "review_count": 1
+        },
+        {
+          "name": "CHEM203",
+          "review_count": 1
+        },
+        {
+          "name": "CHEM320",
+          "review_count": 1
+        },
+        {
+          "name": "CHEM321",
+          "review_count": 1
+        },
+        {
+          "name": "CHEMCHEM",
+          "review_count": 1
+        },
+        {
+          "name": "CHEMISTRY",
+          "review_count": 1
+        },
+        {
+          "name": "COMM110",
+          "review_count": 1
+        },
+        {
+          "name": "NRES700",
+          "review_count": 1
+        }
+      ],
+      "rating_distribution": {
+        "5_stars": 36,
+        "4_stars": 12,
+        "3_stars": 9,
+        "2_stars": 22,
+        "1_star": 6
+      },
+      "tags": [
+        {
+          "name": "Tough grader",
+          "count": 3
+        },
+        {
+          "name": "Get ready to read",
+          "count": 2
+        },
+        {
+          "name": "Participation matters",
+          "count": 1
+        },
+        {
+          "name": "Skip class? You won't pass.",
+          "count": 2
+        },
+        {
+          "name": "Amazing lectures ",
+          "count": 2
+        },
+        {
+          "name": "Gives good feedback",
+          "count": 1
+        },
+        {
+          "name": "Inspirational",
+          "count": 1
+        },
+        {
+          "name": "Lots of homework",
+          "count": 4
+        },
+        {
+          "name": "Hilarious",
+          "count": 2
+        },
+        {
+          "name": "Beware of pop quizzes",
+          "count": 1
+        },
+        {
+          "name": "Caring",
+          "count": 1
+        },
+        {
+          "name": "Respected",
+          "count": 1
+        },
+        {
+          "name": "Lecture heavy",
+          "count": 1
+        },
+        {
+          "name": "Graded by few things",
+          "count": 2
+        },
+        {
+          "name": "Accessible outside class",
+          "count": 2
+        }
+      ],
+      "recent_reviews": [
+        {
+          "date": "2025-05-09 22:18:36 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 3,
+          "difficulty_rating": 3,
+          "comment": "Dr. Whitcombe uses a projector and semi-filled in slides. He goes off on many tangents-- be careful, sometimes these tangents become questions on the final. Daily problem sets were a pain but keeps you up to date on what you need to know. Organic section was not well taught, used librechem texts to learn naming. Don't go to his office alone.",
+          "grade_received": "A+",
+          "tags": "Lots of homework",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2024-08-29 16:55:19 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 2,
+          "difficulty_rating": 3,
+          "comment": "Often goes on a ramble of irrelevant information and then does the last 5 slides fast due to running out of time. I do like the daily problem set because I felt like I got a lot of practice. The midterms and final were straight forward and I did well on them. ",
+          "grade_received": "B",
+          "tags": "Tough grader--Get ready to read--Lots of homework",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-09-07 18:43:03 +0000 UTC",
+          "course": "CHEM120",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Very experienced and it shows. Gives reasonable problems and if he says something will be on a test it will be on a test. Take him at his word.",
+          "grade_received": "B",
+          "tags": "Amazing lectures --Graded by few things--Accessible outside class",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-05-02 04:30:21 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "Not structured at all, rambling at most times. Cannot miss lectures because his slides are just blank. Makes a lot of mistakes himself but is a tough grader. Doesn't explain concepts well and will confuse you more during office hours. Would not recommend unless you absolutely have to. Nice person, bad prof.",
+          "grade_received": "Rather not say",
+          "tags": "Tough grader--Lots of homework--Lecture heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 5,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-04-07 21:36:25 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "He is a nice guy, not a good prof. I have ADHD, and I need structure to be able to learn properly. His class is not structured, everything makes sense in the lecture, but as soon as I look at my notes, nothing makes sense. Hopefully, you are taking the lab as well. I only understood the lab and applied the concepts to the lecture.",
+          "grade_received": "Rather not say",
+          "tags": "Lots of homework",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 4,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2022-02-20 19:28:44 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Todd truly is a great professor. I am not a strong chemistry student and he was always open to going over concepts twice and putting in the effort to make sure I understood. He helps students understand why chemistry is important in real life scenarios relating to your degree and is fun overall. Very fair testing and a good guy overall",
+          "grade_received": "",
+          "tags": "Respected--Accessible outside class--Inspirational",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 2
+        },
+        {
+          "date": "2021-03-05 02:18:50 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 3,
+          "difficulty_rating": 3,
+          "comment": "His tests were more practical than other chemistry tests. He is a good professor and makes many connections to real-life scenarios and examples.",
+          "grade_received": "C",
+          "tags": "",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2018-09-05 15:01:57 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "Super easy course, textbook is 12$, lectures were entertaining and I genuinely learned a lot.",
+          "grade_received": "A-",
+          "tags": "Hilarious--GRADED BY FEW THINGS--Amazing lectures",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2017-12-05 17:40:58 +0000 UTC",
+          "course": "CHEM110",
+          "quality_rating": 3,
+          "difficulty_rating": 3,
+          "comment": "The quizzes are surprisingly hard. He gives you the answer key for the final exam ahead of time and grades the paper easily, so there's no reason to fail.",
+          "grade_received": "A",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2017-04-08 16:36:20 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 5,
+          "difficulty_rating": 1,
+          "comment": "Great Prof. I enjoyed going to class because the lectures were fun and the material was presented well. He is an easy-going guy, even when I see him in the hallways its easy to strike up a conversation. He explains the material in a way that you can easily understand.",
+          "grade_received": "",
+          "tags": "Gives good feedback--Hilarious--Caring",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2015-08-14 14:11:15 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "He hates on people who come to ask for help by saying things like: \" why don't you know this?\"Additionally, he will go on random tangents which are basically irrelevant to the lecture. Will spend an hour on the easiest slide and will speed through the later, tougher slides.",
+          "grade_received": "A",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 3,
+          "not_helpful_count": 2
+        },
+        {
+          "date": "2014-10-30 03:33:34 +0000 UTC",
+          "course": "NRES700",
+          "quality_rating": 1,
+          "difficulty_rating": 1,
+          "comment": "Having this man teach the intro course to a graduate NRES program is the worst decision ever made by the department. He knows nothing about methods, wastes time with irrelevant stories, and is inappropriate towards some of the women in class. This man is not fit to teach at the grad level and someone needs to address his incompetency ASAP  ",
+          "grade_received": "A+",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 7,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2014-09-18 19:21:13 +0000 UTC",
+          "course": "CHEMISTRY",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "This is the hardest class I have ever taken. When he teaches, it really feels like I'm getting it, but as soon as it's test time, it's 10000x harder than anticipated. ",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-12-30 13:34:40 +0000 UTC",
+          "course": "CHEM110",
+          "quality_rating": 1,
+          "difficulty_rating": 4,
+          "comment": "Positive:Todd is enthuastic and passionate about teaching. Negative: His class material is completely off topic when quizzes are involved. He is THAT teacher who chooses the smallest sentence to quiz you on. Not easy to get an \"A\". Attendance not mandatory. Useless to talk to and he is not clear on assignemnts and expectations.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 4,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-04-05 17:53:41 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 3,
+          "difficulty_rating": 2,
+          "comment": "Very smart professor. Not very approachable in class, but very approachable in office. Calculation days are quite useful, and his humour keeps you awake in class. His multiple choice on exams are unfortunate, but written is very basic. Good Prof!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 1,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2013-04-04 01:59:10 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 4,
+          "difficulty_rating": 2,
+          "comment": "He was an alright prof. His lectures were entertaining and his calculations days were extremely helpful. The multiple choice on his tests are ridiculous, but his finals are easy and he'll drop midterms.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 1,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2013-04-03 22:58:32 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "He is brutally awful as a prof! Goes off topic for 20 to 40 mins every lecture. Midterms do not reflect course material, but final was not too difficult. I attended every lecture and barely learned a thing.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 2,
+          "helpful_count": 3,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-03-17 23:15:55 +0000 UTC",
+          "course": "CHEM100101",
+          "quality_rating": 2,
+          "difficulty_rating": 1,
+          "comment": "Excellent lectures, but gets a bit off topic with his anecdotes and examples.  Often confuses himself when trying to explain things with examples.  Multiple choice is like a lottery, but written questions are very fair.  Just fail the midterms and you can have 95% of the grade based on the final, which is much easier.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 2,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-02-03 17:20:03 +0000 UTC",
+          "course": "CHEM101",
+          "quality_rating": 5,
+          "difficulty_rating": 1,
+          "comment": "The best teacher  i have ever had. He is amazing and deserves to win a nobel peace prize",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 4
+        },
+        {
+          "date": "2012-12-17 01:18:18 +0000 UTC",
+          "course": "CHEM100",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "Easily gets off topic during lectures, multiple choice is more like trivial pursuit unless you like memorizing textbooks for fun...",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        }
+      ]
+    },
+    {
+      "name": "Kristen Guest",
+      "id": 267161,
+      "department": "English",
+      "school": {
+        "city": "Prince George",
+        "name": "University of Northern British Columbia",
+        "state": "BC"
+      },
+      "overall_rating": 3.4,
+      "difficulty": 3.3,
+      "total_ratings": 82,
+      "would_take_again_percent": 60,
+      "courses": [
+        {
+          "name": "212",
+          "review_count": 1
+        },
+        {
+          "name": "298",
+          "review_count": 1
+        },
+        {
+          "name": "CHILDRENSLIT",
+          "review_count": 1
+        },
+        {
+          "name": "ENG100",
+          "review_count": 3
+        },
+        {
+          "name": "ENG101",
+          "review_count": 2
+        },
+        {
+          "name": "ENG212",
+          "review_count": 5
+        },
+        {
+          "name": "ENG260",
+          "review_count": 9
+        },
+        {
+          "name": "ENG284",
+          "review_count": 5
+        },
+        {
+          "name": "ENG300",
+          "review_count": 1
+        },
+        {
+          "name": "ENG384",
+          "review_count": 6
+        },
+        {
+          "name": "ENG460",
+          "review_count": 2
+        },
+        {
+          "name": "ENG484",
+          "review_count": 2
+        },
+        {
+          "name": "ENGL",
+          "review_count": 2
+        },
+        {
+          "name": "ENGL100",
+          "review_count": 3
+        },
+        {
+          "name": "ENGL212",
+          "review_count": 5
+        },
+        {
+          "name": "ENGL243",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL260",
+          "review_count": 4
+        },
+        {
+          "name": "ENGL283",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL284",
+          "review_count": 5
+        },
+        {
+          "name": "ENGL320",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL382",
+          "review_count": 3
+        },
+        {
+          "name": "ENGL384",
+          "review_count": 6
+        },
+        {
+          "name": "ENGL460",
+          "review_count": 1
+        },
+        {
+          "name": "ENGL484",
+          "review_count": 4
+        },
+        {
+          "name": "ENGL4TH",
+          "review_count": 1
+        },
+        {
+          "name": "ENGLISH384",
+          "review_count": 1
+        },
+        {
+          "name": "ENGLSECT",
+          "review_count": 1
+        },
+        {
+          "name": "VIC",
+          "review_count": 1
+        },
+        {
+          "name": "VICTLIT",
+          "review_count": 1
+        },
+        {
+          "name": "VICTORIAN",
+          "review_count": 1
+        },
+        {
+          "name": "VICTORIANLIT",
+          "review_count": 2
+        }
+      ],
+      "rating_distribution": {
+        "5_stars": 35,
+        "4_stars": 14,
+        "3_stars": 9,
+        "2_stars": 6,
+        "1_star": 18
+      },
+      "tags": [
+        {
+          "name": "Tough grader",
+          "count": 7
+        },
+        {
+          "name": "Get ready to read",
+          "count": 15
+        },
+        {
+          "name": "Participation matters",
+          "count": 13
+        },
+        {
+          "name": "Skip class? You won't pass.",
+          "count": 1
+        },
+        {
+          "name": "Group projects",
+          "count": 4
+        },
+        {
+          "name": "Amazing lectures ",
+          "count": 1
+        },
+        {
+          "name": "Clear grading criteria",
+          "count": 4
+        },
+        {
+          "name": "Would take again",
+          "count": 1
+        },
+        {
+          "name": "Gives good feedback",
+          "count": 7
+        },
+        {
+          "name": "Inspirational",
+          "count": 1
+        },
+        {
+          "name": "Beware of pop quizzes",
+          "count": 3
+        },
+        {
+          "name": "Caring",
+          "count": 2
+        },
+        {
+          "name": "Respected",
+          "count": 5
+        },
+        {
+          "name": "Lecture heavy",
+          "count": 1
+        },
+        {
+          "name": "Accessible outside class",
+          "count": 4
+        }
+      ],
+      "recent_reviews": [
+        {
+          "date": "2025-05-19 16:04:03 +0000 UTC",
+          "course": "ENG460",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "Really do get ready to read - my gosh. However, Dr. Guest cares about her students, and even after bombing a few initial papers (which should have brought my grade way down), because I participated and made an effort, I ended with a good grade at the end. You just have to try, and she will see it and reward it. ",
+          "grade_received": "A",
+          "tags": "Get ready to read--Participation matters--Respected",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-17 03:15:18 +0000 UTC",
+          "course": "ENG284",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "Hard grader.",
+          "grade_received": "A-",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-14 22:18:58 +0000 UTC",
+          "course": "298",
+          "quality_rating": 2,
+          "difficulty_rating": 5,
+          "comment": "Beware, she advertises this class to students in STEM, premed/prepharm/prevet students looking for an english credit. This IS NOT an easy class, is not a GPA booster, she expects you to be able to write at an advance English major level. She's a lovely teacher, but this course is not worth the work, opt for engl 100 and 170 instead.",
+          "grade_received": "C",
+          "tags": "Get ready to read--Lecture heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2024-04-14 04:45:20 +0000 UTC",
+          "course": "ENG212",
+          "quality_rating": 4,
+          "difficulty_rating": 4,
+          "comment": "The key to Dr. Guest is consultation. She marks essays easier if you work with her on them. On a proposal, I got feedback (lots still to work on) and so I made the adjustments and asked her if she'd take a second look which she did. She said she would do that \"as many [times] as [I] would like.\" She's intimidating but helpful. + group work heavy. ",
+          "grade_received": "A",
+          "tags": "Tough grader--Group projects--Accessible outside class",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "",
+          "would_take_again": 1,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-12-08 08:58:20 +0000 UTC",
+          "course": "ENG284",
+          "quality_rating": 1,
+          "difficulty_rating": 4,
+          "comment": "She's dismissive at best and downright rude at times. I wanted to like this class going into it and the content was fine, but the professor made this my worst class experience yet.",
+          "grade_received": "Not sure yet",
+          "tags": "Tough grader--Get ready to read--Participation matters",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-12-08 08:48:17 +0000 UTC",
+          "course": "ENGL284",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "every time I've reached out to her for help she's been actively dismissive. if she doesn't like a question you have she'll just respond with \"that was discussed in class\". This class also has a really annoying aspect where you need to write a response to a question every single week which is tough with other classes.",
+          "grade_received": "Not sure yet",
+          "tags": "Tough grader--Get ready to read--Participation matters",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2022-04-28 17:25:42 +0000 UTC",
+          "course": "ENG212",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Challenges and pushes you in a way that makes you better. Really focuses on helping you develop skills for the future. I felt like I actually learned a lot about how to analyze literature. Weekly participation helps you stay on top of the class. Only downside is she does some group work but that is a personal dislike",
+          "grade_received": "A",
+          "tags": "Participation matters--Inspirational--Accessible outside class",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2021-05-14 04:27:52 +0000 UTC",
+          "course": "ENG212",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "Dr. Guest was a poor lecturer online, I didn't learn a thing from her lectures and she was very harsh on grading as well. Will never take a class with her again",
+          "grade_received": "",
+          "tags": "Participation matters--Group projects--Tough grader",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2019-04-27 01:43:37 +0000 UTC",
+          "course": "ENGL212",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "She is a great instructor. Her lectures are interesting and she focuses on helping students to build skills and develop analytical abilities. She maintains a good balance between lecturing and class discussion. She is also extremely helpful with essay writing and will give lots of help if asked. She clearly wants students to do well.",
+          "grade_received": "A+",
+          "tags": "Gives good feedback--Accessible outside class--Participation matters",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2018-11-27 13:43:45 +0000 UTC",
+          "course": "ENG260",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Kristen Guest was a good choice for an English teacher, and she knows her material. It was not difficult to get a decent mark in this class. As long as you show up, say a couple of things, and read the books, you'll do fine.",
+          "grade_received": "A",
+          "tags": "Get ready to read--ACCESSIBLE OUTSIDE CLASS--Caring",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2018-11-07 20:06:16 +0000 UTC",
+          "course": "ENG260",
+          "quality_rating": 3,
+          "difficulty_rating": 4,
+          "comment": "Teaches the content well enough, but the lectures were a drag, so many students would fall asleep or just not pay attention and it felt like the class went on forever. She has quizs every once in awhile to test content, basically making sure you are doing all the readings. Shes also kind of passive agressive which was off-putting for me",
+          "grade_received": "A-",
+          "tags": "Get ready to read--BEWARE OF POP QUIZZES--GROUP PROJECTS",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 3
+        },
+        {
+          "date": "2018-07-10 20:33:19 +0000 UTC",
+          "course": "ENG300",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "Best teacher I had at UNBC",
+          "grade_received": "A",
+          "tags": "Gives good feedback--Participation matters--Clear grading criteria",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2017-12-06 22:16:53 +0000 UTC",
+          "course": "ENG484",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "Classes were based entirely around group work. If you don't mind presenting you should be okay. Her tests were very ambigious, but she explained the final about two weeks in advance.",
+          "grade_received": "",
+          "tags": "Get ready to read--Participation matters--GROUP PROJECTS",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2017-05-20 01:56:16 +0000 UTC",
+          "course": "ENG260",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "I really enjoyed her. She is good at communicating expectations and interesting to listen to and talk with. She is good at encouraging conversation about the books. Excellent book choices.",
+          "grade_received": "A-",
+          "tags": "Gives good feedback--Get ready to read--Clear grading criteria",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2016-11-16 03:26:50 +0000 UTC",
+          "course": "ENGL384",
+          "quality_rating": 4,
+          "difficulty_rating": 4,
+          "comment": "I loved Kristen's Victorian Literature class; I thought she was witty, contextual and fun to discuss readings with. I will say this: do not expect an easy pass. She makes you work for it, but in the end you come out of her class actually having learned something. I wish the readings weren't quite as long, but that is characteristic of Victorian lit",
+          "grade_received": "B+",
+          "tags": "Tough Grader--Gives good feedback--Get ready to read",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": 5,
+          "helpful_count": 3,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2016-04-21 13:28:26 +0000 UTC",
+          "course": "ENGL384",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Guest covers the Victorian era well throughout all her classes, but I really enjoyed this one in particular. Sensation fiction is hilarious and interesting, and Guest really gets into the novels and that makes learning about them more fun. Stay on top of the readings, be aware Victorians are anxious about everything and you'll be fine.",
+          "grade_received": "A-",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 3,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2016-04-16 02:08:56 +0000 UTC",
+          "course": "ENGL384",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "A typical Guest class. Interesting, full of (at times, too much) context, and challenging. But definitely not bad! You learn a lot and she is always willing to help with papers and presentations. Do the readings and you will be good to go.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2015-12-03 15:55:10 +0000 UTC",
+          "course": "ENGL484",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "This was my first 4th year class with Guest and it was really great. She is phenomenal in a seminar setting--still letting the student group lead the discussion, but still contributing to discussion. Her class readings all connect really well together. She also is amazing for helping with papers! Would recommend any of her classes!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 2,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2015-08-10 23:50:36 +0000 UTC",
+          "course": "ENGL284",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "Guest is very good at the variety of classes she teaches- everything from Children's Lit to Victorian Lit. There are a lot of readings and planned quizzes every other week, which helped a lot with keeping the texts straight. She's tremendous for getting help with essays, but she looooves her context. Which is kind of boring after the 10th time ",
+          "grade_received": "A-",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2015-04-22 00:55:30 +0000 UTC",
+          "course": "ENGL320",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Kristen is a wonderful professor. She is extremely well-educated and is a great lecturer. She really includes students and gives you the opportunity to present lectures of your own in upper division classes. I have learned a lot in her classes both academically and personally.",
+          "grade_received": "A",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        }
+      ]
+    },
+    {
+      "name": "Glenda Prkachin",
+      "id": 29033,
+      "department": "Psychology",
+      "school": {
+        "city": "Prince George",
+        "name": "University of Northern British Columbia",
+        "state": "BC"
+      },
+      "overall_rating": 2.7,
+      "difficulty": 2.5,
+      "total_ratings": 79,
+      "would_take_again_percent": -1,
+      "courses": [
+        {
+          "name": "100",
+          "review_count": 1
+        },
+        {
+          "name": "101",
+          "review_count": 1
+        },
+        {
+          "name": "101318",
+          "review_count": 1
+        },
+        {
+          "name": "307",
+          "review_count": 1
+        },
+        {
+          "name": "317419",
+          "review_count": 1
+        },
+        {
+          "name": "318",
+          "review_count": 1
+        },
+        {
+          "name": "BIOPSYC",
+          "review_count": 3
+        },
+        {
+          "name": "PSY101",
+          "review_count": 1
+        },
+        {
+          "name": "PSYC",
+          "review_count": 2
+        },
+        {
+          "name": "PSYC100",
+          "review_count": 3
+        },
+        {
+          "name": "PSYC101",
+          "review_count": 25
+        },
+        {
+          "name": "PSYC307",
+          "review_count": 1
+        },
+        {
+          "name": "PSYC317",
+          "review_count": 6
+        },
+        {
+          "name": "PSYC317419",
+          "review_count": 2
+        },
+        {
+          "name": "PSYC318",
+          "review_count": 2
+        },
+        {
+          "name": "PSYCH",
+          "review_count": 4
+        },
+        {
+          "name": "PSYCH100",
+          "review_count": 3
+        },
+        {
+          "name": "PSYCH101",
+          "review_count": 11
+        },
+        {
+          "name": "PSYCH307",
+          "review_count": 1
+        },
+        {
+          "name": "PSYCH317",
+          "review_count": 3
+        },
+        {
+          "name": "PSYCH318",
+          "review_count": 1
+        },
+        {
+          "name": "PSYCH319",
+          "review_count": 1
+        },
+        {
+          "name": "PSYCH409",
+          "review_count": 1
+        },
+        {
+          "name": "PSYCH499",
+          "review_count": 1
+        },
+        {
+          "name": "PSYCHOLOGY317",
+          "review_count": 1
+        },
+        {
+          "name": "PYCH101",
+          "review_count": 1
+        }
+      ],
+      "rating_distribution": {
+        "5_stars": 14,
+        "4_stars": 11,
+        "3_stars": 18,
+        "2_stars": 17,
+        "1_star": 19
+      },
+      "tags": [
+        {
+          "name": "Tough grader",
+          "count": 1
+        },
+        {
+          "name": "Get ready to read",
+          "count": 2
+        },
+        {
+          "name": "Participation matters",
+          "count": 1
+        },
+        {
+          "name": "Tests are tough",
+          "count": 1
+        },
+        {
+          "name": "Group projects",
+          "count": 1
+        }
+      ],
+      "recent_reviews": [
+        {
+          "date": "2015-12-18 00:33:08 +0000 UTC",
+          "course": "PSYC317",
+          "quality_rating": 4,
+          "difficulty_rating": 4,
+          "comment": "Grades take home midterm and case studies really tough. Often the questions do not express what she is actually look for in the answer, it may actually be something else entirely. Ask her questions about what she actually wants. Has quizzes online before each class that look at specific details within the chapter coming up. Must read the text!",
+          "grade_received": "C",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2015-01-05 00:40:15 +0000 UTC",
+          "course": "PSYC317419",
+          "quality_rating": 4,
+          "difficulty_rating": 3,
+          "comment": "I have taken two classes so far with Glenda and 317 was a very heavy reading course and she does tend to go off on little tangent but they are course relevant. 419 was a great course and she was a great prof for it! Don't be intimidated by the title, she just wants you to apply knowledge more than anything. Overall, great prof!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-12-04 08:59:17 +0000 UTC",
+          "course": "318",
+          "quality_rating": 3,
+          "difficulty_rating": 3,
+          "comment": "Very hard to follow, impossible to study for the exams with what she gives you. ",
+          "grade_received": "B+",
+          "tags": "",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-04-25 19:16:35 +0000 UTC",
+          "course": "PSYCHOLOGY317",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Glenda is extremely smart and very personable. She is also very helpful during her office hours if you don't understand something.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-02-13 13:49:23 +0000 UTC",
+          "course": "PSYC317",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "Although many complain that Glenda may veer off topic, the things she talks about have some sort of relevance to what you're doing. If not THAT much relevance, it's all quite interesting. She likes to challenge her students, but is VERY willing to help you when you ask for it. She is an example of some who loves what they do and knows her stuff!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2012-05-01 13:21:55 +0000 UTC",
+          "course": "PSYCH409",
+          "quality_rating": 5,
+          "difficulty_rating": 4,
+          "comment": "Such a great prof, she expects you to know your stuff and be able to make connections not just memorize like most profs. One of the most valuable courses I ever took.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2008-04-16 15:42:14 +0000 UTC",
+          "course": "PSYC318",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "Hard to stay awake! assignments are not well explained, class is hard to grasp because she uses words I have never heard of before to explain OTHER things that I've never even Learned about! Go to every class with a huge coffee to try and stay awake...don't slack because you teach yourself everything, wikipedia taught me the whole course! She's super nice though and helpful if you go see her.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2008-01-11 17:56:47 +0000 UTC",
+          "course": "PSYCH317",
+          "quality_rating": 4,
+          "difficulty_rating": 5,
+          "comment": "Glenda is an extremely bright professor. If you are in upper division courses with her, be prepared to know your stuff. I enjoyed the integration of different approaches to learning she used. As well, she doesn't want you to just memorize things, but learn the process and conceptual stuff behind what is going on in the brain. She's hillarious.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2007-08-11 15:46:35 +0000 UTC",
+          "course": "PSYC101",
+          "quality_rating": 3,
+          "difficulty_rating": 1,
+          "comment": "ohmygosh she's so ADD! the classes are super easy, but the teacher is super spacey and goes off on random tangents, giving facts that have absolutly nothing to do with psychology. take it if you want easy marks!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2007-05-30 18:30:41 +0000 UTC",
+          "course": "PSYC101",
+          "quality_rating": 4,
+          "difficulty_rating": 1,
+          "comment": "Dr. Prkachin did a good job of teaching a painfully boring class.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2007-01-14 14:47:21 +0000 UTC",
+          "course": "PSYCH317",
+          "quality_rating": 3,
+          "difficulty_rating": 3,
+          "comment": "Glenda is hillarious! She may be a little spacy but who doesn't like a good story about her and her collegues taking the drugs intended for lab rats to see what they &quot;really did&quot;! She doesn't always stick to the syllabus so beware of major changes. Overall, it's an interesting class... just be ready to learn alot about her and her family!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2006-12-11 03:56:25 +0000 UTC",
+          "course": "PSYC101",
+          "quality_rating": 2,
+          "difficulty_rating": 2,
+          "comment": "Quite a boring class. I didn't show up a lot and still did fairly well. When I did show up, I was always distracted and ended up playing games on a nearby laptop. The way she relates concepts to herself are quite unique, and wasn't all bad, but by the end of the year she had completely lost it. &quot;This face is angry -&gt; =)&quot;",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-12-05 11:27:33 +0000 UTC",
+          "course": "PSYCH101",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Interesting lectures that go beyond the text.  She puts a personal spin on things and tries to demonstrate and relate the comments in a way you can understand, very helpful",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-11-28 02:18:06 +0000 UTC",
+          "course": "PSYCH101",
+          "quality_rating": 1,
+          "difficulty_rating": 1,
+          "comment": "oh wow ive never heard sucha boring teacher ever. if u need a good nap to go class. dotn study for her tests, lowest mark i got was 79%. good way to earn electives and boost ur GPA",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-04-30 11:30:17 +0000 UTC",
+          "course": "PSYC101",
+          "quality_rating": 5,
+          "difficulty_rating": 1,
+          "comment": "..I went to all her lectures.  Never studied for the midterms or the final and managed to pull off a B.  And do the 4 percent bonus research questionaires.  Those are difinately worth the time.  Did I mention it's all the tests are all MULTIPLE CHOICE!   I'm going to minor in PSYC thanks to this Martha Stewart look-a-like.  YEEE YEEEEA",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-04-18 01:28:50 +0000 UTC",
+          "course": "PSYC318",
+          "quality_rating": 2,
+          "difficulty_rating": 1,
+          "comment": "Very vague and unclear.  Usually with her classes, you can just read the textbook, and be okay, but for this class, the text was a reading package that she wrote, so it was just as vague and unclear as she was.  I really didn't learn much in this class.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-04-13 03:08:07 +0000 UTC",
+          "course": "BIOPSYC",
+          "quality_rating": 1,
+          "difficulty_rating": 1,
+          "comment": "If you can understand Glenda at the 300 level, you are either a higher level student or a genius. Furthermore, she has quite the questionable comments and allusions, that is when she isn't spaced out. Easy marker though and you don't have to attend class to get good marks. Go to class if you want a laugh, but don't be surprised if you get offended.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-04-10 00:07:59 +0000 UTC",
+          "course": "PSYC307",
+          "quality_rating": 2,
+          "difficulty_rating": 1,
+          "comment": "She a really easy prof. don't need to go to class",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-04-01 21:57:01 +0000 UTC",
+          "course": "BIOPSYC",
+          "quality_rating": 1,
+          "difficulty_rating": 1,
+          "comment": "Whose idea was the leather pants with tapered ankles&#63; Bad prof. Talks over the level of the class. Supposedly ok in upper, upper level classes, but not for anything under the 400 level.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2006-02-16 03:08:12 +0000 UTC",
+          "course": "BIOPSYC",
+          "quality_rating": 1,
+          "difficulty_rating": 3,
+          "comment": "Made some really questionable remarks, biased, spaced out and a stinker of a prof.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": null,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        }
+      ]
+    },
+    {
+      "name": "Saphida Migabo",
+      "id": 30737,
+      "department": "Ecosystem Science",
+      "school": {
+        "city": "Prince George",
+        "name": "University of Northern British Columbia",
+        "state": "BC"
+      },
+      "overall_rating": 2.5,
+      "difficulty": 3.9,
+      "total_ratings": 73,
+      "would_take_again_percent": 17.6471,
+      "courses": [
+        {
+          "name": "BIO",
+          "review_count": 1
+        },
+        {
+          "name": "BIO101",
+          "review_count": 2
+        },
+        {
+          "name": "BIO101LAB",
+          "review_count": 1
+        },
+        {
+          "name": "BIO102",
+          "review_count": 8
+        },
+        {
+          "name": "BIO102LAB",
+          "review_count": 2
+        },
+        {
+          "name": "BIO124",
+          "review_count": 5
+        },
+        {
+          "name": "BIO202",
+          "review_count": 5
+        },
+        {
+          "name": "BIOL101",
+          "review_count": 2
+        },
+        {
+          "name": "BIOL102",
+          "review_count": 11
+        },
+        {
+          "name": "BIOL102LAB",
+          "review_count": 2
+        },
+        {
+          "name": "BIOL124",
+          "review_count": 7
+        },
+        {
+          "name": "BIOL202",
+          "review_count": 2
+        },
+        {
+          "name": "BIOLABS",
+          "review_count": 2
+        },
+        {
+          "name": "BIOLOGY",
+          "review_count": 2
+        },
+        {
+          "name": "CORE",
+          "review_count": 1
+        },
+        {
+          "name": "CORE104",
+          "review_count": 5
+        },
+        {
+          "name": "FSTY207",
+          "review_count": 3
+        },
+        {
+          "name": "INVERTEBRA",
+          "review_count": 1
+        },
+        {
+          "name": "NREM204",
+          "review_count": 10
+        },
+        {
+          "name": "NREM210",
+          "review_count": 1
+        }
+      ],
+      "rating_distribution": {
+        "5_stars": 17,
+        "4_stars": 5,
+        "3_stars": 11,
+        "2_stars": 14,
+        "1_star": 26
+      },
+      "tags": [
+        {
+          "name": "Tough grader",
+          "count": 12
+        },
+        {
+          "name": "Get ready to read",
+          "count": 2
+        },
+        {
+          "name": "Participation matters",
+          "count": 2
+        },
+        {
+          "name": "Skip class? You won't pass.",
+          "count": 3
+        },
+        {
+          "name": "Gives good feedback",
+          "count": 3
+        },
+        {
+          "name": "Inspirational",
+          "count": 1
+        },
+        {
+          "name": "Lots of homework",
+          "count": 1
+        },
+        {
+          "name": "Lecture heavy",
+          "count": 5
+        },
+        {
+          "name": "Test heavy",
+          "count": 4
+        },
+        {
+          "name": "Graded by few things",
+          "count": 4
+        }
+      ],
+      "recent_reviews": [
+        {
+          "date": "2025-05-09 21:55:29 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 4,
+          "difficulty_rating": 5,
+          "comment": "Dr. Migabo was very kind and knowledgeable. No pre-lab work. Assignments were very difficult to get high marks in. The in lab quizzes were also very difficult. The assignments did prepare me for the exam. Overall, I think this was my most difficult course and I don't want to take another biology lab for a while.",
+          "grade_received": "A+",
+          "tags": "Tough grader--Gives good feedback",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-14 22:26:10 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 2,
+          "difficulty_rating": 5,
+          "comment": "Labs were insane, marked out of 160+ points (50 ish point per question that would be a table with less than 15 elements so a little wack) and the marks were not quantifiable (or qualifiable? idk, we didn't learn much outside of how to manage stress), so know this going in. She teaches all the second semester labs so can't really get around her.",
+          "grade_received": "A",
+          "tags": "Tough grader--Participation matters",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-11 22:51:31 +0000 UTC",
+          "course": "BIO124",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "She and her TA's are very nice and helpful, but the key issue is that they don't post or provide the needed info for the lab and assignment before so you cannot prepare at all for your lab. The grading system is also so disorganized and uses an insane amount of marks and misses so much. This class is just Trial by fire and did not enjoy. \n\n\n",
+          "grade_received": "B+",
+          "tags": "Tough grader--Get ready to read",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-03 23:15:01 +0000 UTC",
+          "course": "BIO102LAB",
+          "quality_rating": 3,
+          "difficulty_rating": 5,
+          "comment": "When I took her class, she had two TA's that would lecture at the beginning of the lab every week. she gave us huge in class assignments that you would barely finish by the time class ended and if you did, it was poor quality.",
+          "grade_received": "D",
+          "tags": "Tough grader--Lecture heavy--Graded by few things",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": 3,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-02 15:07:24 +0000 UTC",
+          "course": "BIO124",
+          "quality_rating": 3,
+          "difficulty_rating": 4,
+          "comment": "She's a tough marker and spends a lot of the lab time talking. There are usually multiple things that need to be done in the lab and never enough time to do everything WELL. I fear I didn't learn much just by the fact that I was rushing to do everything in order to complete my lab. If you don't need this course, don't take it.",
+          "grade_received": "Not sure yet",
+          "tags": "Tough grader",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-04-02 03:55:16 +0000 UTC",
+          "course": "BIO124",
+          "quality_rating": 1,
+          "difficulty_rating": 4,
+          "comment": "Not enough time provided to complete in lab assignments",
+          "grade_received": "Not sure yet",
+          "tags": "Tough grader",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2025-01-25 08:37:38 +0000 UTC",
+          "course": "FSTY207",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "Saphida was very nice but her teaching style does not make much sense and is hard to learn from. No notes to write down are given and everything is done by word of mouth. Everything is done by test so there are no practice opportunities with assignments.",
+          "grade_received": "F",
+          "tags": "Tough grader--Lecture heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-10-20 23:32:11 +0000 UTC",
+          "course": "FSTY207",
+          "quality_rating": 2,
+          "difficulty_rating": 3,
+          "comment": "Terrible lecture. Saphida does not provide a good learning/teaching environment. Get ready for information overload for 3 hours straight on confusing information and then to only be graded through tests. No assignments so you don't get any practice. Covers too much, too fast. This class should be 2 or 3 times a week instead of once. ",
+          "grade_received": "Not sure yet",
+          "tags": "Lecture heavy--Test heavy--Graded by few things",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "non mandatory",
+          "would_take_again": null,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-09-23 03:53:37 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "Saphida is very passionate about her subject and is a great lecturer. If she sees you trying hard she tries to help out. This course isn't easy, so I recommend taking it during summer. It might appear like she's a bad prof based on other ratings, but really people are rating her course during the academic year. Take it during summer!",
+          "grade_received": "A+",
+          "tags": "Gives good feedback--Inspirational--Lots of homework",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2023-07-26 22:44:06 +0000 UTC",
+          "course": "BIO124",
+          "quality_rating": 5,
+          "difficulty_rating": 3,
+          "comment": "Personally I thought Saphida was a great lab prof and was super fair with marking! Assignments were straightforward and she only tested material that was covered in class. Not sure why ppl are downvoting her, probably bc you had a lackluster TA and not the actual lab prof like Saphida.",
+          "grade_received": "A",
+          "tags": "Participation matters--Lecture heavy--Graded by few things",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 1,
+          "textbook_required": -1,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2021-10-03 17:45:54 +0000 UTC",
+          "course": "BIOL202",
+          "quality_rating": 1,
+          "difficulty_rating": 4,
+          "comment": "I like her energy and personality. That's about it. MANY people fail her classes, and she won't share the class averages - because they're so bad. Do not take her classes if you don't have to. One of the worst profs I've had. Notes are terrible, she's all over the place, don't know what she's saying half the time.",
+          "grade_received": "",
+          "tags": "Skip class? You won't pass.--Graded by few things--Tough grader",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 0,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2021-06-23 05:37:22 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "Saphida was incredibly unfair with her marking and with her expectations. No matter how much effort it was the same results every time. I tried to ask how I could improve and she would not give any answers. I would not suggest her and she was not very prompt at replying to emails either. Her personality was dull and its hard to make convo with her.",
+          "grade_received": "B",
+          "tags": "Skip class? You won't pass.--Lecture heavy--Tough grader",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2021-04-28 23:08:45 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "Saphida was not a fair lab instructor. Her midterms were incredibly difficult and produced an average of 50-65% on each. She was unclear on what the students should know and required the labs to be marked with excessive scrutiny. Her TAs were nice and knowledgeable, but she did not reflect those qualities.",
+          "grade_received": "A-",
+          "tags": "Test heavy--Tough grader",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2021-04-23 06:00:04 +0000 UTC",
+          "course": "BIO124",
+          "quality_rating": 3,
+          "difficulty_rating": 5,
+          "comment": "She was a fair lab prof. Personally, it wasn't terrible but she didnt prepare us well for the lab quizzes. However she did do a good job outlining what she will test us on, and i was able to make a good outline that helped me get an A- on the exam. Take advantage of her office hours, and she responds to emails, and is straight forward.",
+          "grade_received": "A-",
+          "tags": "Get ready to read--Skip class? You won't pass.--Tough grader",
+          "online_class": true,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 0,
+          "not_helpful_count": 1
+        },
+        {
+          "date": "2021-04-23 01:27:07 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 1,
+          "difficulty_rating": 4,
+          "comment": "Saphida is not a good lab instructor. Her midterms and final are unfair with material that was not covered in the lab experiments or manuals. Make sure you are able to identify every organism that is even mentioned in the lab tutorials. She is not easy to contact if you have questions about the course and will take weeks to get back to you.",
+          "grade_received": "A-",
+          "tags": "Test heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 5,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2020-09-12 01:17:53 +0000 UTC",
+          "course": "BIOL124",
+          "quality_rating": 1,
+          "difficulty_rating": 5,
+          "comment": "Listen she's tough but use her office hours , I did bio 124 with her and the course is designed to make u fail so do your best and take as much as u can from TAs.",
+          "grade_received": "B-",
+          "tags": "Gives good feedback--Test heavy",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 0,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2018-11-23 16:56:18 +0000 UTC",
+          "course": "FSTY207",
+          "quality_rating": 1,
+          "difficulty_rating": 1,
+          "comment": "literally the worst. Lectures are 3 hours and painful, no breaks and only reads from slides.",
+          "grade_received": "A-",
+          "tags": "Tough Grader",
+          "online_class": false,
+          "for_credit": true,
+          "attendance_mandatory": "mandatory",
+          "would_take_again": 0,
+          "textbook_required": 0,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-04-03 03:01:14 +0000 UTC",
+          "course": "BIO102",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "Very, very nice! Very approachable, and easy marker. Need to study extremely hard for the lab final as it is detailed!",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 2,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2014-03-26 15:47:37 +0000 UTC",
+          "course": "BIOL101",
+          "quality_rating": 2,
+          "difficulty_rating": 4,
+          "comment": "People who say she is a great professor are nerdy anti-social weirdos. Saphida has no communication skills and you can say blank words associated with the lab, have no clue what you're talking about, and Saphida will think you're genius (e.g. me). Take any course with another prof. if you can, she will make you mad.",
+          "grade_received": "B+",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "N",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 1,
+          "not_helpful_count": 0
+        },
+        {
+          "date": "2013-12-15 02:17:01 +0000 UTC",
+          "course": "NREM204",
+          "quality_rating": 5,
+          "difficulty_rating": 2,
+          "comment": "Saphida was a great professor. She knew her stuff, and taught in a way that made it fun and straightforward. Definitely a fair marker and anyone who says she is tough just doesn't put enough effort in. The class is easy and enjoyable if you just put in the time and effort.",
+          "grade_received": "",
+          "tags": "",
+          "online_class": false,
+          "for_credit": false,
+          "attendance_mandatory": "",
+          "would_take_again": null,
+          "textbook_required": 4,
+          "helpful_count": 0,
+          "not_helpful_count": 0
+        }
+      ]
+    }
+  ]
+}
